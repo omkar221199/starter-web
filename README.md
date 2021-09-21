@@ -6,4 +6,6 @@ This is introduction to how to use git and git repository
 
 ## Purpose
 
+The purpose of this is to fully understand what git is and to implement it in future projects
+
 ## How to contribute
